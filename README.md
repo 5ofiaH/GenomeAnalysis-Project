@@ -8,6 +8,8 @@ The aim of the project is to re-analyze and re-evaluate the biological conclusio
 | Data              | SRA Identifier | Tissue | Stage | Tool  |
 |-------------------|----------------|--------|-------|-------|
 | Durio zibethinus Musang King | [SRA Identifier] | [Tissue type] | [Stage] | [Sequencing tool] |
+| ... | ... | ... | ... | ... |
+
 
 ## Goals 🎯
 - **Type of Sample:** Genome sequencing and assembly data
