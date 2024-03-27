@@ -23,7 +23,16 @@ The aim of the project is to re-analyze and re-evaluate the biological conclusio
 ## Time Frame 📅 (Time Plan)
 | Day   | Hours | Process   | Data Type | Software | Est. Time |
 |-------|-------|-----------|-----------|----------|-----------|
-| 26/3  | 2     | Seminar   | --        | --       | --        |
+| 21/3  | 2     | Own work  | --| --| --|
+| 22/3  | 2     | Seminar   | --        | --       | --        |
+| ...  | ...     | ...   | ...        | ...       | ..        |
 
-## Daily Log 🗓️
-
+## Daily Logs 📝
+| Date       | Time Spent | Activity                                      |
+|------------|------------|-----------------------------------------------|
+| 2024-03-25 | 2 hours    | Started writing the project plan |
+| 2024-03-27 | 1 hours    | Started writing the README file |
+| 2024-03-28 |  hours    | -               |
+| 2024-03-29 |  hours    | -  |
+| 2024-03-30 |  hours    | -                     |
+| ...        | ...        | ...                        |
