@@ -1,6 +1,6 @@
 # GenomeAnalysis-SHV
 
-## Welcome to my Genome Analysis Project
+## Welcome to my Genome Analysis Project :)
 
 ## Overview
 
