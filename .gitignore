@@ -1,0 +1,14 @@
+#  Ignore all files starting with . or - 
+
+-*
+#  Ignore intermediate, logs and scratch dirs as well as results
+intermediate/trimmed
+logs/*.log
+scratch/*
+results/*
+
+# Ignore data files
+*.fastaq.gz
+*.Rdata
+*.tsv
+
