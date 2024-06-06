@@ -1,4 +1,4 @@
-# GenomeAnalysis-SHV
+# GenomeAnalysis-Project
 
 ## Welcome to my Genome Analysis Project :)
 
